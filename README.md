@@ -2,9 +2,11 @@
 
 ## Validate javascript with static type checking
 
-WHY DO YOU NEED TYPESCRIPT?
-Javascript is a dinamically type language. (It breaks only on runtime)
+## WHY DO YOU NEED TYPESCRIPT?
 
+## Javascript is:
+
+- a dinamically type language. (It breaks only on runtime)
 - good for beginner or medium sized applications
 - Difficult to scale
 
@@ -42,7 +44,7 @@ $ npm install typescript --save-dev
 
 # CONFIGURATION
 
-typescriptlang.org
+typescriptlang.org to read more about it
 
 configuring small file for typescript
 
