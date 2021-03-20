@@ -10,7 +10,7 @@
 - good for beginner or medium sized applications
 - Difficult to scale
 
-WHAT IS TYPESCRIPT
+## WHAT IS TYPESCRIPT
 
 - it is an extenstion to javascript. the most popular static type extension for javascript
 - Provides safety that javascript cannot give us
